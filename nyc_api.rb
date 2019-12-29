@@ -23,3 +23,4 @@ end
 
  programs = GetPrograms.new.get_programs
  puts programs
+#  puts programs.program_school.uniq
